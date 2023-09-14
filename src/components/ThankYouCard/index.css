@@ -1,0 +1,12 @@
+.love-img {
+  height: 55px;
+}
+.pass {
+  text-align: center;
+}
+.sub-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

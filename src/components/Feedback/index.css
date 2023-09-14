@@ -1,0 +1,33 @@
+/* Write your CSS code here. */
+.container {
+  min-height: 100vh;
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sub-container {
+  background-color: #ffffff;
+  width: 500px;
+  height: 330px;
+  border-radius: 10px;
+  padding: 0px 20px 0px 20px;
+}
+.heading {
+  font-size: 28px;
+  text-align: center;
+  margin-top: 50px;
+}
+.emoji-ul {
+  list-style-type: none;
+  width: 400px;
+  margin-left: 30px;
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.happy-container {
+  height: 260px;
+  padding-top: 23px;
+}

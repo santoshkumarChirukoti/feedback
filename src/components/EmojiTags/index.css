@@ -1,0 +1,11 @@
+.emojis {
+  height: 60px;
+}
+.emj-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+.emojis-name {
+  margin: 0px;
+  text-align: center;
+}
